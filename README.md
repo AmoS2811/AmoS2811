@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 <br>
-- 💻 I'm a full stack Software Engineer with 2.5 years of experience <br>
-- 🎓 I have a bachelor's degree in Information Technology & pursuing my master's degree in Computer Science @ Georgia institute of Technology <br>
-- 🤔 I’m looking for fulltime software engineering / product manager opportunities in the United States, United Kingdom or Norway <br>
+- 💻 Full-stack software engineer & technologist with ~3.5 years of combined experience across software engineering and technical operations <br>
+- 🎓 B.S. in Information Technology; pursuing an M.S. in Computer Science @ Georgia Institute of Technology <br>
+- 🤔 Open to full-time roles in software engineering (frontend/full-stack) and product/operations in the United States, United Kingdom, or Norway <br>
